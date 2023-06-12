@@ -1,0 +1,10 @@
+* DartsCLSequenceMetrics
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/deterministic-arts/DartsCLSequenceMetrics.git   |
+| commit  | d0bfdcc  |
+| systems | DartsCLSequenceMetrics |
+|---------+-------------------------------------------|
+
